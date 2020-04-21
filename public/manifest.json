@@ -1,0 +1,11 @@
+{
+  "short_name": "PokeCRM",
+  "name": "Pokemon cennter using PokeApi",
+  "icons": [
+    
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
